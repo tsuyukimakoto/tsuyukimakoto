@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Twitter Follow](https://img.shields.io/twitter/follow/everes?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPhe6DdJSBY49bgY1waaQuQ?style=social)
+
+[![侍エンジニアブログ](C:UsersSiroDesktopsamurai_blog.png)](https://www.sejuku.net/blog/)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/everes?style=social)](https://twitter.com/intent/user?screen_name=everes)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPhe6DdJSBY49bgY1waaQuQ?style=social)](http://youtube.com/user/mtsuyuki)
 
 A Software Engineer specializing in Python technologies and AWS.
 Professional experience with the technologies listed in the toolbox below.
