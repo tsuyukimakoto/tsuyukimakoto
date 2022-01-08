@@ -25,10 +25,3 @@ Professional experience with the technologies listed in the toolbox below.
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/hashicorp-terraform.svg" alt="Terraform" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" height="50px" />
-
----
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsuyukimakoto&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsuyukimakoto&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
